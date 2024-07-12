@@ -1,0 +1,1 @@
+{"name":"Local: Drinks","url":"d:\\C++\\Drinks.cpp","tests":[{"id":1681247162682,"input":"3\n50 50 100\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Drinks.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A Simple If-Else, Loop Problem","url":"d:\\C++\\A Simple If-Else, Loop Problem. Or is it.cpp","tests":[{"id":1697023630246,"input":"2\n5\n3 6\n1 2 3 4 5\n11\n11 20\n16 11 4 14 7 6 16 9 17 16 8\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\A Simple If-Else, Loop Problem. Or is it.cpp","group":"local","local":true}
